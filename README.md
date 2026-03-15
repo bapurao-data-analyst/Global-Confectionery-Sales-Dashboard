@@ -27,7 +27,7 @@ Sample Global Confectionery Sales dataset containing information about sales rev
 - Interactive filters for dynamic analysis
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard](dashboard_preview.png)
 
 ## 👨‍💻 Author
 Bapurao Patil
