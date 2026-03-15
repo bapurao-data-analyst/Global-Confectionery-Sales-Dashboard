@@ -1,4 +1,4 @@
-# Global-Confectionery-Sales-Dashboard
+# confectionery-product-salesperson-performance
 
 ## Project Title
  Global Confectionery Sales & Shipment Performance Dashboard
@@ -28,3 +28,6 @@ Sample Global Confectionery Sales dataset containing information about sales rev
 
 ## Dashboard Preview
 ![Dashboard Preview](dashboard_preview.png)
+
+## 👨‍💻 Author
+Bapurao Patil
